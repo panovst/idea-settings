@@ -1,5 +1,10 @@
 <application>
   <component name="HgGlobalSettings">
     <option name="myHgExecutable" value="hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="repo.meditgroup.ru/mig/hepreg" value="s.panov" />
+      </map>
+    </option>
   </component>
 </application>
