@@ -52,7 +52,7 @@
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
       <library>
-        <url>file://$USER_HOME$/dev/tools/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar</url>
+        <url>file://$USER_HOME$/dev/tools/mysql-connector-java-5.1.39.jar</url>
       </library>
     </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
