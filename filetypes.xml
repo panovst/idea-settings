@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_test" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
