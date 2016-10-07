@@ -2,7 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="pre-prod" type="PLAIN_TEXT" />
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
+      <mapping pattern="demo" type="PLAIN_TEXT" />
+      <mapping pattern="rc" type="PLAIN_TEXT" />
+      <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_test" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
     </extensionMap>
