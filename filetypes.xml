@@ -9,6 +9,7 @@
       <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_test" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
