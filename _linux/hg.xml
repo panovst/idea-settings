@@ -1,5 +1,10 @@
 <application>
   <component name="HgGlobalSettings">
     <option name="myHgExecutable" value="/usr/local/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="repo.meditgroup.ru/ngs/ngs-ansible" value="s.panov" />
+      </map>
+    </option>
   </component>
 </application>
