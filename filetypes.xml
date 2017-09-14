@@ -8,7 +8,9 @@
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
       <mapping pattern="rc" type="PLAIN_TEXT" />
+      <mapping pattern="V114.txt" type="PLAIN_TEXT" />
       <mapping pattern="pre-prod" type="PLAIN_TEXT" />
+      <mapping pattern="V114" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_test" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
