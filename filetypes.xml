@@ -2,15 +2,16 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <removed_mapping ext="ttf" approved="true" type="Font" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
-      <mapping pattern="rc" type="PLAIN_TEXT" />
-      <mapping pattern="V114.txt" type="PLAIN_TEXT" />
       <mapping pattern="pre-prod" type="PLAIN_TEXT" />
+      <mapping pattern="V114.txt" type="PLAIN_TEXT" />
       <mapping pattern="V114" type="PLAIN_TEXT" />
+      <mapping pattern="rc" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_test" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
