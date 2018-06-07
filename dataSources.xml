@@ -1,5 +1,5 @@
 <application>
-  <component name="dataSourceStorage" format="xml">
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="rc" uuid="ada3da39-975d-4d48-8da7-c1cfce8fd7e8">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
